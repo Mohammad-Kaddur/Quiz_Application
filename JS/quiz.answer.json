@@ -1,0 +1,81 @@
+[{
+    "title":"What does HTML stand for?",
+    "answer_1": "Hyperlinks and Text Markup Language",
+    "answer_2": " Home Tool Markup Language",
+    "answer_3":" Hyper Text Markup Language",
+    "answer_4":" Hyper Text Markup Language",
+    "right_answer":"Hyperlinks and Text Markup Language"
+},
+{ 
+    "title":"Who is making the Web standards?",
+    "answer_1":"The World Wide Web Consortium",
+    "answer_2": "Mozilla",
+    "answer_3":"Microsoft",
+    "answer_4":"Google",
+    "right_answer":"The World Wide Web Consortium"
+},
+{
+    "title":"Choose the correct HTML element for the largest heading:",
+    "answer_1": "<h6>",
+    "answer_2": "<heading>",
+    "answer_3":"<head>",
+    "answer_4":"<h1>",
+    "right_answer":"<h1>"
+},
+{
+    "title":"What is the correct HTML element for inserting a line break?",
+    "answer_1": "<br>",
+    "answer_2": "<break>",
+    "answer_3":"<Ib>",
+    "answer_4":"<Ib>",
+    "right_answer":"<br>"
+},
+{
+    "title":"Which HTML element defines the title of a document?",
+    "answer_1": "<head>",
+    "answer_2": "<meta>",
+    "answer_3":"<title>",
+    "answer_4":"<title>",
+    "right_answer":"<title>"
+},
+{
+    "title":"Choose the correct HTML element to define important text",
+    "answer_1": "<i>",
+    "answer_2": "<important>",
+    "answer_3":"<b>",
+    "answer_4":"<strong>",
+    "right_answer":"<strong>"
+},
+{
+    "title":"Choose the correct HTML element to define emphasized text",
+    "answer_1": "<italic>",
+    "answer_2": "<em>",
+    "answer_3":"<i>",
+    "answer_4":"<i>",
+    "right_answer":"<em>"
+},
+{
+    "title":"Which character is used to indicate an end tag?",
+    "answer_1": "^",
+    "answer_2": "*",
+    "answer_3":"/",
+    "answer_4":"<",
+    "right_answer":"/"
+},
+{
+    "title":"How can you make a numbered list?",
+    "answer_1": "<dl>",
+    "answer_2": "<ol>",
+    "answer_3":"<ul>",
+    "answer_4":"<list>",
+    "right_answer":"<ol>"
+},
+{
+    "title":"How can you make a bulleted list?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3":"<list>",
+    "answer_4":"<dl>",
+    "right_answer":"<ul>"
+}
+]
